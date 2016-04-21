@@ -7,7 +7,6 @@
 # Date Created : 18 Jan 2016
 # Author       : Priti Jadhav
 # Email        : priti.jadhav57@gmail.com
-# Copyright    : Priti.jadhav57@gmail.com
 #
 # 
 #
