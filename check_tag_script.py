@@ -8,7 +8,6 @@
 # Author       : Priti Jadhav
 # Email        : priti.jadhav57@gmail.com
 # Copyright    : Priti.jadhav57@gmail.com
-# License      : Proprietary
 #
 # 
 #
